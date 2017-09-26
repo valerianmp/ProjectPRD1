@@ -1,2 +1,2 @@
 # ProjectPRD1
-Tugas dan oprekan bakal project PRD
+Repositori untuk menampung file untuk proyek mata kuliah pengantar rekayasa dan desain 1 (KU1101).
